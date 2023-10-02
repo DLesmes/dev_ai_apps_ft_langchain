@@ -6,3 +6,4 @@
 
 ## Recommendar lectures
 * [Langchain Doc](https://docs.langchain.com/docs/)
+* [Langchain Integration](https://integrations.langchain.com/)
