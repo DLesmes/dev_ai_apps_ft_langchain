@@ -8,3 +8,4 @@
 * [Langchain Doc](https://docs.langchain.com/docs/)
 * [Langchain Integration](https://integrations.langchain.com/)
 * [Langchain Chatbot](https://langchain-chatbot.streamlit.app/basic_chatbot)
+* [Chroma - Vectorial DataBase](https://docs.trychroma.com/)
